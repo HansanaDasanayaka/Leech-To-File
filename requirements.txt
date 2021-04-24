@@ -1,4 +1,4 @@
-python-3.8.2
+python-3.9.2
 aiohttp
 aria2p
 hachoir
